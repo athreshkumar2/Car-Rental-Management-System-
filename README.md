@@ -1,2 +1,2 @@
-# Car-Rental-Management-System-
+# Car-Rental-Management-System
 This project is about Car rental management system.  
